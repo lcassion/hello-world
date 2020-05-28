@@ -4,4 +4,6 @@ I am currently performing the tutorial of GitHub hopping this version control sy
 I am back to check what's new.... If ok I will switch from BitBucket
 modifie en local
 
-modifié depuis githup
+modifié depuis githup pour un pull
+
+Et aussi depuis le local pour un autre push
